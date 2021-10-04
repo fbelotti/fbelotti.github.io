@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://fbelotti.github.io/sitemap.xml
