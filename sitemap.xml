@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fbelotti.github.io/publication-type/2/</loc>
+    <loc>https://fbelotti.github.io/publication-type/4/</loc>
     <lastmod>2021-11-21T17:00:34+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/</loc>
@@ -31,6 +31,9 @@
   </url><url>
     <loc>https://fbelotti.github.io/publication/wip_spat_diff/</loc>
     <lastmod>2021-09-27T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication-type/2/</loc>
+    <lastmod>2021-03-31T00:38:32+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/publication/sj-6/</loc>
     <lastmod>2021-03-31T00:38:32+02:00</lastmod>
