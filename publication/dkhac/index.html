@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="The paper proposes a class of estimators based on spatial data transformation that allows practitioners to perform inference when models with local unobservable heterogeneity are implemented. In particular, we propose two estimators: the Spatial Differencing (SD) and the Spatial Within (SW) estimators as in the panel data setting. Both estimators require a spatial data transformation based on a given threshold distance. Gaining insight from the recent dyadic data regression literature, we study the asymptotic properties of the estimators and their finite sample performance using Monte Carlo simulations. We propose a Hausman-like test to detect the presence of local unobserved heterogeneity. The method is illustrated using data on the Kenyan project in Miguel and Kremer (2004). Consistently with Miguel and Kremer (2004) results, we find that the medical treatment spills over a radius of approximately 3 Km." />
+  <meta name="description" content="We consider the derivation of data-dependent simultaneous bandwidths for double kernel heteroskedasticity and autocorrelation consistent (DK-HAC) estimators. In addition to the usual smoothing over lagged autocovariances for classical HAC estimators, the DK-HAC estimator also applies smoothing over the time direction. We obtain the optimal bandwidths that jointly minimize the global asymptotic MSE criterion and discuss the trade-off between bias and variance with respect to smoothing over lagged autocovariances and over time. Unlike the MSE results of Andrews (1991), we establish how nonstationarity affects the bias-variance trade-off. We use the plug-in approach to construct data-dependent bandwidths for the DK-HAC estimators and compare them with the DK-HAC estimators from Casini (2021) that use data-dependent bandwidths obtained from a sequential MSE criterion. The former performs better in terms of size control, especially with stationary and close to stationary data. Finally, we consider long-run variance estimation under the assumption that the series is a function of a nonparametric estimator rather than of a semiparametric estimator that enjoys the usual $\sqrt{T}$ rate of convergence. Thus, we also establish the validity of consistent long-run variance estimation in nonparametric parameter estimation settings." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://fbelotti.github.io/publication/wip_spat_diff/" />
+  <link rel="alternate" hreflang="en-us" href="https://fbelotti.github.io/publication/dkhac/" />
 
   
 
@@ -276,7 +276,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hue03f4f296b88666ff8b0162d6fbe65ea_49608_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hue03f4f296b88666ff8b0162d6fbe65ea_49608_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://fbelotti.github.io/publication/wip_spat_diff/" />
+  <link rel="canonical" href="https://fbelotti.github.io/publication/dkhac/" />
 
   
   
@@ -293,15 +293,15 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="econometrics.it" />
-  <meta property="og:url" content="https://fbelotti.github.io/publication/wip_spat_diff/" />
-  <meta property="og:title" content="Estimation in presence of local unobservables | econometrics.it" />
-  <meta property="og:description" content="The paper proposes a class of estimators based on spatial data transformation that allows practitioners to perform inference when models with local unobservable heterogeneity are implemented. In particular, we propose two estimators: the Spatial Differencing (SD) and the Spatial Within (SW) estimators as in the panel data setting. Both estimators require a spatial data transformation based on a given threshold distance. Gaining insight from the recent dyadic data regression literature, we study the asymptotic properties of the estimators and their finite sample performance using Monte Carlo simulations. We propose a Hausman-like test to detect the presence of local unobserved heterogeneity. The method is illustrated using data on the Kenyan project in Miguel and Kremer (2004). Consistently with Miguel and Kremer (2004) results, we find that the medical treatment spills over a radius of approximately 3 Km." /><meta property="og:image" content="https://fbelotti.github.io/media/icon_hue03f4f296b88666ff8b0162d6fbe65ea_49608_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:url" content="https://fbelotti.github.io/publication/dkhac/" />
+  <meta property="og:title" content="Simultaneous bandwidths determination for DK-HAC estimators and long-run variance estimation in nonparametric settings | econometrics.it" />
+  <meta property="og:description" content="We consider the derivation of data-dependent simultaneous bandwidths for double kernel heteroskedasticity and autocorrelation consistent (DK-HAC) estimators. In addition to the usual smoothing over lagged autocovariances for classical HAC estimators, the DK-HAC estimator also applies smoothing over the time direction. We obtain the optimal bandwidths that jointly minimize the global asymptotic MSE criterion and discuss the trade-off between bias and variance with respect to smoothing over lagged autocovariances and over time. Unlike the MSE results of Andrews (1991), we establish how nonstationarity affects the bias-variance trade-off. We use the plug-in approach to construct data-dependent bandwidths for the DK-HAC estimators and compare them with the DK-HAC estimators from Casini (2021) that use data-dependent bandwidths obtained from a sequential MSE criterion. The former performs better in terms of size control, especially with stationary and close to stationary data. Finally, we consider long-run variance estimation under the assumption that the series is a function of a nonparametric estimator rather than of a semiparametric estimator that enjoys the usual $\sqrt{T}$ rate of convergence. Thus, we also establish the validity of consistent long-run variance estimation in nonparametric parameter estimation settings." /><meta property="og:image" content="https://fbelotti.github.io/media/icon_hue03f4f296b88666ff8b0162d6fbe65ea_49608_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://fbelotti.github.io/media/icon_hue03f4f296b88666ff8b0162d6fbe65ea_49608_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="article:published_time" content="2021-09-27T00:16:34&#43;02:00" />
+      <meta property="article:published_time" content="2021-03-04T00:16:34&#43;02:00" />
     
-    <meta property="article:modified_time" content="2021-09-27T00:16:34&#43;02:00">
+    <meta property="article:modified_time" content="2021-03-04T00:16:34&#43;02:00">
   
 
   
@@ -323,16 +323,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://fbelotti.github.io/publication/wip_spat_diff/"
+    "@id": "https://fbelotti.github.io/publication/dkhac/"
   },
-  "headline": "Estimation in presence of local unobservables",
+  "headline": "Simultaneous bandwidths determination for DK-HAC estimators and long-run variance estimation in nonparametric settings",
   
   "datePublished": "0001-01-01T00:00:00Z",
-  "dateModified": "2021-09-27T00:16:34+02:00",
+  "dateModified": "2021-03-04T00:16:34+02:00",
   
   "author": {
     "@type": "Person",
-    "name": "Tiziano Arduini"
+    "name": "Federico Belotti"
   },
   
   "publisher": {
@@ -343,7 +343,7 @@
       "url": "https://fbelotti.github.io/media/icon_hue03f4f296b88666ff8b0162d6fbe65ea_49608_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "The paper proposes a class of estimators based on spatial data transformation that allows practitioners to perform inference when models with local unobservable heterogeneity are implemented. In particular, we propose two estimators: the Spatial Differencing (SD) and the Spatial Within (SW) estimators as in the panel data setting. Both estimators require a spatial data transformation based on a given threshold distance. Gaining insight from the recent dyadic data regression literature, we study the asymptotic properties of the estimators and their finite sample performance using Monte Carlo simulations. We propose a Hausman-like test to detect the presence of local unobserved heterogeneity. The method is illustrated using data on the Kenyan project in Miguel and Kremer (2004). Consistently with Miguel and Kremer (2004) results, we find that the medical treatment spills over a radius of approximately 3 Km."
+  "description": "We consider the derivation of data-dependent simultaneous bandwidths for double kernel heteroskedasticity and autocorrelation consistent (DK-HAC) estimators. In addition to the usual smoothing over lagged autocovariances for classical HAC estimators, the DK-HAC estimator also applies smoothing over the time direction. We obtain the optimal bandwidths that jointly minimize the global asymptotic MSE criterion and discuss the trade-off between bias and variance with respect to smoothing over lagged autocovariances and over time. Unlike the MSE results of Andrews (1991), we establish how nonstationarity affects the bias-variance trade-off. We use the plug-in approach to construct data-dependent bandwidths for the DK-HAC estimators and compare them with the DK-HAC estimators from Casini (2021) that use data-dependent bandwidths obtained from a sequential MSE criterion. The former performs better in terms of size control, especially with stationary and close to stationary data. Finally, we consider long-run variance estimation under the assumption that the series is a function of a nonparametric estimator rather than of a semiparametric estimator that enjoys the usual $\\sqrt{T}$ rate of convergence. Thus, we also establish the validity of consistent long-run variance estimation in nonparametric parameter estimation settings."
 }
 </script>
 
@@ -359,11 +359,11 @@
 
 
 
-  <title>Estimation in presence of local unobservables | econometrics.it</title>
+  <title>Simultaneous bandwidths determination for DK-HAC estimators and long-run variance estimation in nonparametric settings | econometrics.it</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="2eb9148b15ffec9fadb42417e67b3e2f" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="150f52172ffd4fb1788c7c836fa2f7df" >
 
   
   
@@ -691,7 +691,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Estimation in presence of local unobservables</h1>
+  <h1>Simultaneous bandwidths determination for DK-HAC estimators and long-run variance estimation in nonparametric settings</h1>
 
   
 
@@ -709,9 +709,11 @@
     
 
   <span >
-      Tiziano Arduini</span>, <span >
       Federico Belotti</span>, <span >
-      Edoardo Di Porto</span>
+      Alessandro Casini</span>, <span >
+      Pierre Perron</span>, <span >
+      Stefano Grassi</span>, <span >
+      Leopoldo Catania</span>
   </div>
   
   
@@ -722,7 +724,7 @@
     
       
     
-    September 2021
+    March 2021
   </span>
   
 
@@ -747,6 +749,55 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://alessandro-casini.com/wp-content/uploads/2021/03/BELOTTI_et_al_HAC_Simultaneous_Bandw.pdf" target="_blank" rel="noopener">
+    
+    pdf
+  </a>
+
+
+</div>
+
 
   
 </div>
@@ -757,26 +808,10 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">The paper proposes a class of estimators based on spatial data transformation that allows practitioners to perform inference when models with local unobservable heterogeneity are implemented. In particular, we propose two estimators: the Spatial Differencing (SD) and the Spatial Within (SW) estimators as in the panel data setting. Both estimators require a spatial data transformation based on a given threshold distance. Gaining insight from the recent dyadic data regression literature, we study the asymptotic properties of the estimators and their finite sample performance using Monte Carlo simulations. We propose a Hausman-like test to detect the presence of local unobserved heterogeneity. The method is illustrated using data on the Kenyan project in Miguel and Kremer (2004). Consistently with Miguel and Kremer (2004) results, we find that the medical treatment spills over a radius of approximately 3 Km.</p>
+    <p class="pub-abstract">We consider the derivation of data-dependent simultaneous bandwidths for double kernel heteroskedasticity and autocorrelation consistent (DK-HAC) estimators. In addition to the usual smoothing over lagged autocovariances for classical HAC estimators, the DK-HAC estimator also applies smoothing over the time direction. We obtain the optimal bandwidths that jointly minimize the global asymptotic MSE criterion and discuss the trade-off between bias and variance with respect to smoothing over lagged autocovariances and over time. Unlike the MSE results of Andrews (1991), we establish how nonstationarity affects the bias-variance trade-off. We use the plug-in approach to construct data-dependent bandwidths for the DK-HAC estimators and compare them with the DK-HAC estimators from Casini (2021) that use data-dependent bandwidths obtained from a sequential MSE criterion. The former performs better in terms of size control, especially with stationary and close to stationary data. Finally, we consider long-run variance estimation under the assumption that the series is a function of a nonparametric estimator rather than of a semiparametric estimator that enjoys the usual $\sqrt{T}$ rate of convergence. Thus, we also establish the validity of consistent long-run variance estimation in nonparametric parameter estimation settings.</p>
     
 
     
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            <a href="/publication/#3">
-              Preprint
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
     
 
     
@@ -785,7 +820,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Work in progress (first draft available soon)</div>
+          <div class="col-12 col-md-9">R&amp;R Econometric Reviews</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -817,7 +852,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://fbelotti.github.io/publication/wip_spat_diff/&amp;text=Estimation%20in%20presence%20of%20local%20unobservables" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://fbelotti.github.io/publication/dkhac/&amp;text=Simultaneous%20bandwidths%20determination%20for%20DK-HAC%20estimators%20and%20long-run%20variance%20estimation%20in%20nonparametric%20settings" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -830,7 +865,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://fbelotti.github.io/publication/wip_spat_diff/&amp;t=Estimation%20in%20presence%20of%20local%20unobservables" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://fbelotti.github.io/publication/dkhac/&amp;t=Simultaneous%20bandwidths%20determination%20for%20DK-HAC%20estimators%20and%20long-run%20variance%20estimation%20in%20nonparametric%20settings" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -843,7 +878,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Estimation%20in%20presence%20of%20local%20unobservables&amp;body=https://fbelotti.github.io/publication/wip_spat_diff/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Simultaneous%20bandwidths%20determination%20for%20DK-HAC%20estimators%20and%20long-run%20variance%20estimation%20in%20nonparametric%20settings&amp;body=https://fbelotti.github.io/publication/dkhac/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -856,7 +891,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://fbelotti.github.io/publication/wip_spat_diff/&amp;title=Estimation%20in%20presence%20of%20local%20unobservables" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://fbelotti.github.io/publication/dkhac/&amp;title=Simultaneous%20bandwidths%20determination%20for%20DK-HAC%20estimators%20and%20long-run%20variance%20estimation%20in%20nonparametric%20settings" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -869,7 +904,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Estimation%20in%20presence%20of%20local%20unobservables%20https://fbelotti.github.io/publication/wip_spat_diff/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Simultaneous%20bandwidths%20determination%20for%20DK-HAC%20estimators%20and%20long-run%20variance%20estimation%20in%20nonparametric%20settings%20https://fbelotti.github.io/publication/dkhac/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -882,7 +917,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://fbelotti.github.io/publication/wip_spat_diff/&amp;title=Estimation%20in%20presence%20of%20local%20unobservables" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://fbelotti.github.io/publication/dkhac/&amp;title=Simultaneous%20bandwidths%20determination%20for%20DK-HAC%20estimators%20and%20long-run%20variance%20estimation%20in%20nonparametric%20settings" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -901,6 +936,18 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 
