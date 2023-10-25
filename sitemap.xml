@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fbelotti.github.io/publication-type/2/</loc>
+    <lastmod>2023-10-25T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/</loc>
+    <lastmod>2023-10-25T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication_types/</loc>
+    <lastmod>2023-10-25T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication/</loc>
+    <lastmod>2023-10-25T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication/dkhac/</loc>
+    <lastmod>2023-10-25T00:16:34+02:00</lastmod>
+  </url><url>
     <loc>https://fbelotti.github.io/publication-type/0/</loc>
     <lastmod>2023-10-24T00:16:34+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/publication/bank_run/</loc>
-    <lastmod>2023-10-24T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/</loc>
-    <lastmod>2023-10-24T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/publication_types/</loc>
-    <lastmod>2023-10-24T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/publication/</loc>
     <lastmod>2023-10-24T00:16:34+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/publication/outdetect/</loc>
@@ -25,12 +31,6 @@
   </url><url>
     <loc>https://fbelotti.github.io/publication/neighborhoods/</loc>
     <lastmod>2023-09-27T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/publication-type/2/</loc>
-    <lastmod>2023-01-21T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/publication/dkhac/</loc>
-    <lastmod>2023-01-21T00:16:34+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/publication/screp/</loc>
     <lastmod>2022-09-01T13:34:34+02:00</lastmod>
