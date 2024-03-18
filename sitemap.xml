@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fbelotti.github.io/publication-type/3/</loc>
+    <lastmod>2024-03-15T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/</loc>
+    <lastmod>2024-03-15T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication/hgfe/</loc>
+    <lastmod>2024-03-15T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication_types/</loc>
+    <lastmod>2024-03-15T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication/</loc>
+    <lastmod>2024-03-15T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication/robust/</loc>
+    <lastmod>2024-03-15T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication/lesotho/</loc>
+    <lastmod>2024-03-15T00:16:34+02:00</lastmod>
+  </url><url>
     <loc>https://fbelotti.github.io/publication-type/0/</loc>
     <lastmod>2024-03-13T00:16:34+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/publication/bank_run/</loc>
-    <lastmod>2024-03-13T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/</loc>
-    <lastmod>2024-03-13T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/publication_types/</loc>
-    <lastmod>2024-03-13T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/publication/</loc>
     <lastmod>2024-03-13T00:16:34+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/publication-type/2/</loc>
@@ -35,9 +47,6 @@
     <loc>https://fbelotti.github.io/publication/screp/</loc>
     <lastmod>2022-09-01T13:34:34+02:00</lastmod>
   </url><url>
-    <loc>https://fbelotti.github.io/publication-type/3/</loc>
-    <lastmod>2022-09-01T12:00:34+02:00</lastmod>
-  </url><url>
     <loc>https://fbelotti.github.io/publication/npsm/</loc>
     <lastmod>2022-09-01T12:00:34+02:00</lastmod>
   </url><url>
@@ -50,8 +59,14 @@
     <loc>https://fbelotti.github.io/publication/jhc/</loc>
     <lastmod>2021-11-21T17:00:34+02:00</lastmod>
   </url><url>
+    <loc>https://fbelotti.github.io/publication-type/5/</loc>
+    <lastmod>2021-09-30T00:16:34+02:00</lastmod>
+  </url><url>
     <loc>https://fbelotti.github.io/publication/wip_jss/</loc>
     <lastmod>2021-09-30T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication-type/4/</loc>
+    <lastmod>2021-03-31T00:38:32+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/publication/sj-6/</loc>
     <lastmod>2021-03-31T00:38:32+02:00</lastmod>
