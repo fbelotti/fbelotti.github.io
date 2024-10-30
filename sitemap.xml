@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fbelotti.github.io/publication-type/2/</loc>
+    <lastmod>2024-10-30T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication/bank_run/</loc>
+    <lastmod>2024-10-30T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/</loc>
+    <lastmod>2024-10-30T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication_types/</loc>
+    <lastmod>2024-10-30T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication/</loc>
+    <lastmod>2024-10-30T00:16:34+02:00</lastmod>
+  </url><url>
     <loc>https://fbelotti.github.io/publication-type/4/</loc>
     <lastmod>2024-06-20T00:16:34+02:00</lastmod>
   </url><url>
-    <loc>https://fbelotti.github.io/</loc>
-    <lastmod>2024-06-20T00:16:34+02:00</lastmod>
-  </url><url>
     <loc>https://fbelotti.github.io/publication/sj-7/</loc>
-    <lastmod>2024-06-20T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/publication_types/</loc>
-    <lastmod>2024-06-20T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/publication/</loc>
     <lastmod>2024-06-20T00:16:34+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/publication-type/3/</loc>
@@ -32,20 +38,14 @@
     <loc>https://fbelotti.github.io/publication/lesotho/</loc>
     <lastmod>2024-03-15T00:16:34+02:00</lastmod>
   </url><url>
-    <loc>https://fbelotti.github.io/publication-type/0/</loc>
-    <lastmod>2024-03-13T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/publication/bank_run/</loc>
-    <lastmod>2024-03-13T00:16:34+02:00</lastmod>
-  </url><url>
-    <loc>https://fbelotti.github.io/publication-type/2/</loc>
-    <lastmod>2024-02-04T00:16:34+02:00</lastmod>
-  </url><url>
     <loc>https://fbelotti.github.io/publication/obesity/</loc>
     <lastmod>2024-02-04T00:16:34+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/publication/dkhac/</loc>
     <lastmod>2023-10-25T00:16:34+02:00</lastmod>
+  </url><url>
+    <loc>https://fbelotti.github.io/publication-type/0/</loc>
+    <lastmod>2023-09-27T00:16:34+02:00</lastmod>
   </url><url>
     <loc>https://fbelotti.github.io/publication/neighborhoods/</loc>
     <lastmod>2023-09-27T00:16:34+02:00</lastmod>
